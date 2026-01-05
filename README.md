@@ -1,3 +1,5 @@
+*Notes : Buka README.md ini dalam bentuk code, jangan Preview karena akan berantakan.
+
 TIC TAC TOE - Project OOP 
 Dosen : D5387 - Pak Harvianto Harvianto S.Kom, M.T.I. 
 Kelas : LX01 
