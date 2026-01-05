@@ -7,7 +7,9 @@ Anggota Kelompok :
 3) Vania Alicia Yocelin - 2802442612
 
 DESKRIPSI APLIKASI
-Tic Tac Toe adalah implementasi modern dari game klasik Tic Tac Toe dengan antarmuka grafis yang elegan menggunakan Java Swing. Aplikasi ini dikembangkan dengan menerapkan konsep Object Oriented Programming secara menyeluruh, memungkinkan pemain untuk bermain melawan pemain lain (Player vs Player) atau melawan komputer dengan AI (Player vs Computer).
+Tic Tac Toe adalah implementasi modern dari game klasik Tic Tac Toe dengan antarmuka grafis yang elegan menggunakan Java Swing. 
+Aplikasi ini dikembangkan dengan menerapkan konsep Object Oriented Programming secara menyeluruh, memungkinkan pemain untuk 
+bermain melawan pemain lain (Player vs Player) atau melawan komputer dengan AI (Player vs Computer).
 
 FITUR UTAMA 
 1. Antarmuka Modern - GUI yang clean dengan design light mode dan smooth animations
